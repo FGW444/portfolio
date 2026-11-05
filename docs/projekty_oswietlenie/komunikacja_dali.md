@@ -27,7 +27,7 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 ## Przykład podłączenia streownika LED do urządzenia diagnostycznego po przez komunikacje DALI:
 
 
-![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_example.png) #{ width="100%" style="display: block; margin: 0 auto;" }
+![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_example.png)
 
 
 ## Powody stosowania komunikacji w oświetleniu awaryjnym:
@@ -63,10 +63,10 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitlab*. Podłaczenie oscyloskopy z sondami do oprawy *Picoscope 4444*. Podłączenie luksometru do oświetlenia główego oprawy, oraz okablowanie całego stanowiska pomiarowego  (==========================img -dodaj tu zdjecia==),
 
 
-![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg) #{ width="100%" style="display: block; margin: 0 auto;" }
+![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg) 
 
 
-#![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) #{ width="100%" style="display: block; margin: 0 auto;" }
+#![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) 
 
 
 1. **Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
