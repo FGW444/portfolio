@@ -22,9 +22,11 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 ```
 </div>
+## Przykład podłączenia streownika LED do urządzenia diagnostycznego po przez komunikacje DALI:
 
+![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg){ width="100%" style="display: block; margin: 0 auto;" }
 
-
+![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg){ width="100%" style="display: block; margin: 0 auto;" }
 
 ## Powody stosowania komunikacji w oświetleniu awaryjnym:
 
