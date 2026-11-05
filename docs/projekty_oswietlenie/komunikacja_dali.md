@@ -65,8 +65,7 @@ następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitla
 
 ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg) 
 
-
-#![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) 
+ <!-- ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) --> 
 
 
 1. **Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
