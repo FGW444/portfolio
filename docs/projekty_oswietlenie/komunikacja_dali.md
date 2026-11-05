@@ -33,6 +33,10 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
   <img src="../img-and-mp4/projekty_praca/probitbench_example.png" alt="moje zdjecie" style="width: 70%; height: auto;">
 </div>
 
+<img src="../img-and-mp4/projekty_praca/probitbench_example.png" alt="moje zdjecie" style="width: 70%; max-width: 70%; display: block; margin-left: auto; margin-right: auto; height: auto;">
+
+
+
 
 ## Powody stosowania komunikacji w oświetleniu awaryjnym:
 
