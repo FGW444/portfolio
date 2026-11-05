@@ -68,11 +68,11 @@ następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitla
  <!-- ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) --> 
 
 
-1. **Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
+3. **Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
 
-2. **Walidacja i weryfikacja oprogramowania wbudowanego:** Współpraca z zespołem programistow, któtrych zadaniem było przygotowanie rewizji software spełniającego wszystkie wymogi normy pod komunikacje DALI,
+4. **Walidacja i weryfikacja oprogramowania wbudowanego:** Współpraca z zespołem programistow, któtrych zadaniem było przygotowanie rewizji software spełniającego wszystkie wymogi normy pod komunikacje DALI,
 
-3. **Przygotowanie dokumentacji końcowej do jednostki certyfikacyjnej:** Przedstawienie końcowej rewizji software opraw awaryjnych oraz folderu zawierającego pozytywne wyniki sekwencji testowych wymaganych norm IEC 62386 -102, -202 do jednostki certyfikacyjnej.
+5. **Przygotowanie dokumentacji końcowej do jednostki certyfikacyjnej:** Przedstawienie końcowej rewizji software opraw awaryjnych oraz folderu zawierającego pozytywne wyniki sekwencji testowych wymaganych norm IEC 62386 -102, -202 do jednostki certyfikacyjnej.
 
 </div>
 
