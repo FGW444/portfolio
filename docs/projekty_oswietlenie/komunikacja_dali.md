@@ -57,9 +57,10 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 <div class="grid" markdown>
 
-1. **Przygotowaine prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
+**1. Przygotowaine prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
 
-2. **Przygotowanie stanowiska pomiarowego:** Stworzenie warunków do testów badanej oprawy podłączonej urządzenia weryfikującego zgodność ze standardem Dali-2 *Probitbench*, 
+
+**2. Przygotowanie stanowiska pomiarowego:** Stworzenie warunków do testów badanej oprawy podłączonej urządzenia weryfikującego zgodność ze standardem Dali-2 *Probitbench*, 
 następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitlab*. Podłaczenie oscyloskopy z sondami do oprawy *Picoscope 4444*. Podłączenie luksometru do oświetlenia główego oprawy, oraz okablowanie całego stanowiska pomiarowego,
 
 
@@ -68,11 +69,14 @@ następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitla
  <!-- ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) --> 
 
 
-3. **Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
 
-4. **Walidacja i weryfikacja oprogramowania wbudowanego:** Współpraca z zespołem programistow, któtrych zadaniem było przygotowanie rewizji software spełniającego wszystkie wymogi normy pod komunikacje DALI,
+**3. Stworzenie bazy danych z wynikami sekwencji:** Utworzenie listy wszystkich testów sekwencji opisanych w normie. Stworzenie ticketu oraz opisanie każdego z nich bazując na wytycznych w normie oraz aktualizacja wyników, 
 
-5. **Przygotowanie dokumentacji końcowej do jednostki certyfikacyjnej:** Przedstawienie końcowej rewizji software opraw awaryjnych oraz folderu zawierającego pozytywne wyniki sekwencji testowych wymaganych norm IEC 62386 -102, -202 do jednostki certyfikacyjnej.
+
+**4. Walidacja i weryfikacja oprogramowania wbudowanego:** Współpraca z zespołem programistow, któtrych zadaniem było przygotowanie rewizji software spełniającego wszystkie wymogi normy pod komunikacje DALI,
+
+
+**5. Przygotowanie dokumentacji końcowej do jednostki certyfikacyjnej:** Przedstawienie końcowej rewizji software opraw awaryjnych oraz folderu zawierającego pozytywne wyniki sekwencji testowych wymaganych norm IEC 62386 -102, -202 do jednostki certyfikacyjnej.
 
 </div>
 
