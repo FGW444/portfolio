@@ -63,8 +63,10 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 **2. Przygotowanie stanowiska pomiarowego:** Stworzenie warunków do testów badanej oprawy podłączonej urządzenia weryfikującego zgodność ze standardem Dali-2 *Probitbench*, 
 następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitlab*. Podłaczenie oscyloskopy z sondami do oprawy *Picoscope 4444*. Podłączenie luksometru do oświetlenia główego oprawy, oraz okablowanie całego stanowiska pomiarowego,
 
- 
-![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg){ width="70%" style="display: block; margin: 0 auto;" }
+
+<div style="text-align: center;">
+  <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; height: auto;">
+</div>
 
 
  <!-- ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) --> 
