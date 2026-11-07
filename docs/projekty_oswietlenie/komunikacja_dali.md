@@ -23,8 +23,11 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 ```
 </div>
 
+## Czym jest Probitbench:
 
-## Przykład podłączenia streownika LED do urządzenia diagnostycznego po przez komunikacje DALI:
+ ProbitBench to zintegrowane środowiska programistyczne (IDE) oraz narzędzia diagnostyczne służące do programowania, testowania i konfiguracji zaawansowanych sterowników przemysłowych stworzone przez firmę  [Lichtvision Engineering](https://lichtvision-engineering.com/probitbench).
+
+## Przykładowe podłączenia lampy awaryjnej do urządzenia pomiarowego Probitlab:
 
 
 ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_example.png)
