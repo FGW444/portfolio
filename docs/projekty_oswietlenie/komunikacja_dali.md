@@ -2,7 +2,7 @@
 # DALI (Digital Addressable Lighting Interface) 
 
 
-!!! info "Czym jest DALI?"
+!!! info "Czym jest komuniakcja DALI?"
 
     -  To międzynarodowy, standard służący do inteligentnego sterowania oświetleniem w budynkach. Umożliwia  dwukierunkową wymianę danych pomiędzy centralnym kontrolerem a poszczególnymi lampami w budynku,
  
