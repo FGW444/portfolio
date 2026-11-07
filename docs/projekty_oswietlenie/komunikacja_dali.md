@@ -46,7 +46,7 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 ## Powody stosowania komunikacji w oświetleniu awaryjnym:
 
 
-??? info "Do głównych zalet komuniakcji należą:"
+??? info "Do głównych zalet komuniakcji należą (naciśnij aby rozwinąć):"
 
     - **Adresowalność:** Każde urządzenie ma swój unikalny adres. Układ sterujący może wysyłać komendy do danych grup produktów lub do wszystkich na raz.
 
