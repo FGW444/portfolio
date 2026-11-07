@@ -70,7 +70,7 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 <div class="grid" markdown>
 
-**Przygotowaine prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
+**Przygotowanie prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
 
 
 **Przygotowanie stanowiska pomiarowego:** Stworzenie warunków do testów badanej oprawy podłączonej urządzenia weryfikującego zgodność ze standardem Dali-2 *Probitbench*, 
@@ -80,6 +80,11 @@ następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitla
 <div style="text-align: center;">
   <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 50%; height: auto;">
 </div>
+
+
+<img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 50%; display: block; margin: 0 auto;">
+
+![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg){: .center width="50%"}
 
 
  <!-- ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station1.jpg) --> 
