@@ -74,7 +74,7 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 
 
-![Opis zdjęcia](probitbench_station2.jpg){: style="width: 90%; max-width: 400px; height: auto; display: block; margin: 0 auto;"}
+![Opis zdjęcia](probitbench_station2.jpg){: style="width: 90%; max-width: 800px; height: auto; display: block; margin: 0 auto;"}
 
 
 
