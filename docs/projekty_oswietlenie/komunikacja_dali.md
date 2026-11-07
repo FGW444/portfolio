@@ -71,7 +71,12 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 ## Na czym polegałą moja rola w tym projekcie:
 
+<!-----
+<div style="text-align: center;">
+  <img src="../img-and-mp4/projekty_praca/probitbench_example.png" alt="moje zdjecie" style="width: 70%; height: auto;">
+</div>
 
+---->
 
 <div style="text-align: center;">
   <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 100%; height: auto;">
