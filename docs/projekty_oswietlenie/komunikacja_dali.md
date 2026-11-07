@@ -23,21 +23,23 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 ```
 </div>
 
-## Czym jest Probitbench:
+### Czym jest Probitbench:
 
- ProbitBench to zintegrowane środowiska programistyczne (IDE) oraz narzędzia diagnostyczne służące do programowania, testowania i konfiguracji zaawansowanych sterowników przemysłowych stworzone przez firmę  [Lichtvision Engineering](https://lichtvision-engineering.com/probitbench).
+ *ProbitBench to zintegrowane środowiska programistyczne (IDE) oraz narzędzia diagnostyczne służące do programowania, testowania i konfiguracji zaawansowanych sterowników przemysłowych stworzone przez firmę  [Lichtvision Engineering](https://lichtvision-engineering.com/probitbench).*
+
 
 ## Przykładowe podłączenia lampy awaryjnej do urządzenia pomiarowego Probitlab:
 
 
 ![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_example.png)
 
+<!---
 <div style="text-align: center;">
   <img src="../img-and-mp4/projekty_praca/probitbench_example.png" alt="moje zdjecie" style="width: 70%; height: auto;">
 </div>
 
 <img src="../img-and-mp4/projekty_praca/probitbench_example.png" alt="moje zdjecie" style="width: 70%; max-width: 70%; display: block; margin-left: auto; margin-right: auto; height: auto;">
-
+---->
 
 
 
