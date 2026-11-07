@@ -65,7 +65,8 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 
 
-![moje zdjecie](../img-and-mp4/projekty_praca/probitbench_station2.jpg){: .center width="50%"}
+
+<img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 50%; display: block; margin: 0 auto;">
 
 
 ## Na czym polegałą moja rola w tym projekcie:
@@ -85,8 +86,6 @@ następnie wgranie sekwencji testówych z zakupionych norm do programu *Probitla
   <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 50%; height: auto;">
 </div>
 
-
-<img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 50%; display: block; margin: 0 auto;">
 
 
 
