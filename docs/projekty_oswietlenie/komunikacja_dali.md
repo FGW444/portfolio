@@ -78,23 +78,6 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 
 
-
-<!-----
-<img src=probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; max-width: 800px; height: auto; display: block; margin: 0 auto;">
-
-
-<div style="text-align: center;">
-  <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; height: auto;">
-</div>
-
-
-
-<div style="text-align: center;">
-  <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 100%; height: auto;">
-</div>
-
----->
-
 *Za co byłem odpowiedzialny:*
 
 **1. Przygotowanie prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
