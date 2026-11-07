@@ -78,11 +78,11 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 
 
-<img src=probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; max-width: 400px; height: auto; display: block; margin: 0 auto;">
-
-
 
 <!-----
+<img src=probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; max-width: 800px; height: auto; display: block; margin: 0 auto;">
+
+
 <div style="text-align: center;">
   <img src="../img-and-mp4/projekty_praca/probitbench_station2.jpg" alt="moje zdjecie" style="width: 70%; height: auto;">
 </div>
