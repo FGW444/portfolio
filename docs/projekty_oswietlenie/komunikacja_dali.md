@@ -68,7 +68,6 @@ A(Podłączenie zasilania oraz zaadresowanie opraw do systemu) --> B(Identyfikac
 
 *Za co byłem odpowiedzialny:*
 
-<div class="grid" markdown>
 
 **Przygotowanie prototypu układu dali na PCB:** Stworzenie podstawowego układu komunikacji na laminacie oprawy do receptury produktu na bazie wskazanych wytycznych,
 
